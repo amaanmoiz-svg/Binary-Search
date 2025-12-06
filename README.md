@@ -3,13 +3,13 @@
 # Demo Screenshots (are in the screenshots folder)
 
 - Random list generation  
-  ![Random List](Screenshots/random_generated_list.png)
+  ![Random List](Screenshots/Random Generated List.png)
 
 - Successful search  
-  ![Success](Screenshots/target_found.png)
+  ![Success](Screenshots/Target_found.png)
 
 - Failed search  
-  ![Failed](Screenshots/target_not_found.png)
+  ![Failed](Screenshots/Target_not_found.png)
 
 
 
