@@ -2,14 +2,14 @@
 
 # Demo Screenshots (are in the screenshots folder)
 
-- Random list generation  
-  ![Random List](Screenshots/Random Generated List.png)
+## Random list generation
+![Random List](Screenshots/random.png)
 
-- Successful search  
-  ![Success](Screenshots/Target_found.png)
+### Successful search
+![Success](Screenshots/Target_found.png)
 
-- Failed search  
-  ![Failed](Screenshots/Target_not_found.png)
+### Failed search
+![Failed](Screenshots/Target_not_found.png)
 
 
 
